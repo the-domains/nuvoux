@@ -1,0 +1,14 @@
+layout_spectrum: 0.06460817367769778
+typography_spectrum: 0.9973018844611943
+color:
+  brandStrength: 0.32224620785564184
+  lightness: 0.17335868277586997
+  saturation: 0.6811616437043995
+  rhythmicContrast: 0.22444252693094313
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Nuvoux
