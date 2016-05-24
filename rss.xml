@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Nuvoux]]></title>
         <description><![CDATA[Nuvoux]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nuvoux/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 04:29:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 04:29:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nuvoux/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Underwater Dogs: photographs of dogs underwater by Seth Casteel]]></title>
+            <description><![CDATA[<article><h1>Underwater Dogs: photographs of dogs underwater by Seth Casteel</h1><p>Underwater Dogs - a book containing over 80 unique photographs of dogs underwater snapped by animal photographer Seth Casteel is published on 25th October 2012 by Headline Books, priced &pound;14.99.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c80db14606103fbacd2b64d680024ffe80aa6f49.jpg"></article>]]></description>
+            <link>http://www.telegraph.co.uk/news/picturegalleries/howaboutthat/9630536/Underwater-Dogs-photographs-of-dogs-underwater-by-Seth-Casteel.html</link>
+            <guid isPermaLink="false">50c97290-08df-408d-96eb-a662d5f2917b</guid>
+            <pubDate>Tue, 24 May 2016 04:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
-            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88196b1c413bb7abd895b6f8113fc788d9746e08.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
             <guid isPermaLink="false">17d9d8a8-8bbc-419e-900e-0a69e4acde79</guid>
             <pubDate>Tue, 24 May 2016 04:28:56 GMT</pubDate>
